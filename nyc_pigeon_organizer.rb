@@ -3,5 +3,6 @@ def nyc_pigeon_organizer(data)
   
   data.each do |prop, hash|
     hash.each do |attribute, array|
-      array.each do |
+      array.each do |name|
+        
 end
